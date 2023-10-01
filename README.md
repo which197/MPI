@@ -1,2 +1,2 @@
 # MPI
-MPI tutorials made by Dr. Qimen Xu
+MPI tutorials made by Dr. Xu
